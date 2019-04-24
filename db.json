@@ -13,5 +13,5 @@
     { "id": 2, "body": "Kommentar 2", "ZeichnungId": 2 },
     { "id": 3, "body": "Kommentar 3", "ZeichnungId": 3 },
     { "id": 4, "body": "Kommentar 4", "ZeichnungId": 1 }
-  ],
+  ]
 }
