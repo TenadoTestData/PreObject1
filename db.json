@@ -36,7 +36,7 @@
     { "id": 22, "body": "Objekt 22", "ZeichnungId": 6 },
     { "id": 23, "body": "Objekt 23", "ZeichnungId": 6 },
     { "id": 24, "body": "Objekt 24", "ZeichnungId": 6 }
-  ]
+  ],
   "Parameter": 
   [
     { "id": 1, "body": "Parameter 1", "ObjektId": 1 },
