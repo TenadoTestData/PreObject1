@@ -1,16 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Zeichnung 1" },
-    { "id": 2, "title": "Zeichnung 2" },
-    { "id": 3, "title": "Zeichnung 3" }
+  "Zeichnungen": [
+    { "id": 1, "title": "Zeichnung 1", "date": "01.01.2019 01:10:20" },
+    { "id": 2, "title": "Zeichnung 2", "date": "02.01.2019 02:20:30" },
+    { "id": 3, "title": "Zeichnung 3", "date": "03.01.2019 03:40:50" }
   ],
-  "comments": [
-    { "id": 1, "body": "Kommentar 1", "postId": 1 },
-    { "id": 2, "body": "Kommentar 2", "postId": 2 },
-    { "id": 3, "body": "Kommentar 3", "postId": 3 },
-    { "id": 4, "body": "Kommentar 4", "postId": 1 }
+  "Kommentare": [
+    { "id": 1, "body": "Kommentar 1", "ZeichnungId": 1 },
+    { "id": 2, "body": "Kommentar 2", "ZeichnungId": 2 },
+    { "id": 3, "body": "Kommentar 3", "ZeichnungId": 3 },
+    { "id": 4, "body": "Kommentar 4", "ZeichnungId": 1 }
   ],
-  "profile": {
+  "DB": {
     "name": "PreObjekte"
   }
 }
