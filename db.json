@@ -1,6 +1,4 @@
 {
-   "Projekt": 
-    { "name": "PreObjekte", "Version": "1.0.0" },
   "Zeichnungen": 
   [
     { "id": 1, "title": "Zeichnung 1", "date": "01.01.2019 01:10:20" },
@@ -13,5 +11,7 @@
     { "id": 2, "body": "Kommentar 2", "ZeichnungId": 2 },
     { "id": 3, "body": "Kommentar 3", "ZeichnungId": 3 },
     { "id": 4, "body": "Kommentar 4", "ZeichnungId": 1 }
-  ]
+  ],
+   "Projekt": 
+    { "name": "PreObjekte", "Version": "1.0.0" }
 }
