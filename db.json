@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "title": "Zeichnung 1" },
+    { "id": 2, "title": "Zeichnung 2" },
+    { "id": 3, "title": "Zeichnung 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Kommentar 1", "postId": 1 },
+    { "id": 2, "body": "Kommentar 2", "postId": 2 },
+    { "id": 3, "body": "Kommentar 3", "postId": 3 },
+    { "id": 4, "body": "Kommentar 4", "postId": 1 }
+  ],
+  "profile": {
+    "name": "PreObjekte"
+  }
+}
