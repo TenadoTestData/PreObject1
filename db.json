@@ -10,7 +10,7 @@
     { "id": 3, "body": "Kommentar 3", "ZeichnungId": 3 },
     { "id": 4, "body": "Kommentar 4", "ZeichnungId": 1 }
   ],
-  "DB": {
+  "Projekt": {
     "name": "PreObjekte"
   }
 }
