@@ -3,12 +3,12 @@
     { "name": "PreObjekte", "Version": "1.0.1" },
   "Zeichnungen": 
   [
-    { "id": 1, "title": "Zeichnung 1", "date": "01.01.2019 01:10:20" },
-    { "id": 2, "title": "Zeichnung 2", "date": "02.01.2019 02:20:30" },
-    { "id": 3, "title": "Zeichnung 3", "date": "03.01.2019 03:40:50" },
-    { "id": 4, "title": "Zeichnung 4", "date": "04.01.2019 04:10:20" },
-    { "id": 5, "title": "Zeichnung 5", "date": "05.01.2019 05:20:30" },
-    { "id": 6, "title": "Zeichnung 6", "date": "06.01.2019 06:40:50" }
+    { "id": 1, "title": "Zeichnung 1", "date": "01.01.2019 01:10:20", "path": "C:/Aa", "version": 1  },
+    { "id": 2, "title": "Zeichnung 2", "date": "02.01.2019 02:20:30", "path": "C:/Ba", "version": 1 },
+    { "id": 3, "title": "Zeichnung 3", "date": "03.01.2019 03:40:50", "path": "C:/Ca", "version": 2 },
+    { "id": 4, "title": "Zeichnung 4", "date": "04.01.2019 04:10:20", "path": "C:/Da", "version": 2 },
+    { "id": 5, "title": "Zeichnung 5", "date": "05.01.2019 05:20:30", "path": "C:/Ea", "version": 3 },
+    { "id": 6, "title": "Zeichnung 6", "date": "06.01.2019 06:40:50", "path": "C:/Fa", "version": 3 }
   ],
   "Objekte": 
   [
