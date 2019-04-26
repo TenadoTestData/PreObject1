@@ -3,7 +3,7 @@
     { "name": "PreObjekte", "Version": "1.0.1" },
   "Zeichnungen": 
   [
-    { "id": 1, "title": "Zeichnung 1", "date": "01.01.2019 01:10:20", "path": "C:/Aa", "version": "1.0.0.0"  },
+    { "id": 1, "title": "Zeichnung 1", "date": "01.01.2019 01:10:20", "path": "C:/Aa", "version": "1.0.0.0" },
     { "id": 2, "title": "Zeichnung 2", "date": "02.01.2019 02:20:30", "path": "C:/Ba", "version": "1.0.0.0" },
     { "id": 3, "title": "Zeichnung 3", "date": "03.01.2019 03:40:50", "path": "C:/Ca", "version": "1.0.0.0" },
     { "id": 4, "title": "Zeichnung 4", "date": "04.01.2019 04:10:20", "path": "C:/Da", "version": "1.0.0.0" },
