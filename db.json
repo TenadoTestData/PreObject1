@@ -23,7 +23,7 @@
   ],
   "Symbole": 
   [
-    { "id": 1, "Title": "Symbol 1","Category":"Kategorie 1","Icon":"1","X":0,"Y":0,"ZeichnungID": 1 },
+    { "id": 1, "Title": "Symbol 1","Category":"Kategorie 1","Icon":"benutzerdefiniert","X":0,"Y":0,"ZeichnungID": 1 },
     { "id": 2, "Title": "Symbol 2","Category":"Kategorie 2","Icon":"2","X":0,"Y":0,"ZeichnungID": 1 },
     { "id": 3, "Title": "Symbol 3","Category":"Kategorie 3","Icon":"3","X":0,"Y":0,"ZeichnungID": 1 },
     { "id": 4, "Title": "Symbol 4","Category":"Kategorie 1","Icon":"1","X":0,"Y":0,"ZeichnungID": 2 },
