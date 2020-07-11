@@ -46,7 +46,7 @@
     { "id": 8, "Title": "Title 8","Benennung": "Maengel 8","Beschreibung":"Beschreibung 2","Status":"Status 8","FotoID":"2","ZeichnungID": 3 },
     { "id": 9, "Title": "Title 9","Benennung": "Maengel 9","Beschreibung":"Beschreibung 3","Status":"Status 9","FotoID":"3","ZeichnungID": 3 },
     { "id": 10, "Title": "Title 10","Benennung": "Maengel 10","Beschreibung":"Beschreibung 1","Status":"Status 10","FotoID":"1","ZeichnungID": 4 }
-  ]
+  ],
   "Parameter": 
   [
     { "id": 1, "Title": "Parameter 1", "SymbolID": 1 },
