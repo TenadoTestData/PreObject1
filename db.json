@@ -34,6 +34,19 @@
     { "id": 9, "Symbolname": "Symbol 9","Benennung": "Symbol 1","LegendentextDE":"Legendentext_DE 3","LegendentextEN":"Legendentext_EN 3","LegendentextFR":"Legendentext_FR 1","LegendentextES":"Legendentext_ES 1","Objektstatus":"Status 9","Sortierwert":"Sortierwert 1","Position":"1","Registriernummer":"1","Icon":"3","X":0,"Y":0,"ZeichnungID": 3 },
     { "id": 10, "Symbolname": "Symbol 10","Benennung": "Symbol 1","LegendentextDE":"Legendentext_DE 1","LegendentextEN":"Legendentext_EN 1","LegendentextFR":"Legendentext_FR 1","LegendentextES":"Legendentext_ES 1","Objektstatus":"Status 10","Sortierwert":"Sortierwert 1","Position":"1","Registriernummer":"1","Icon":"1","X":0,"Y":0,"ZeichnungID": 4 }
   ],
+  "Maengels":
+  [
+    { "id": 1, "Title": "Title 1","Benennung": "Maengel 1","Beschreibung":"Beschreibung 1","Status":"Status 1","FotoID":"1.png","ZeichnungID": 1 },
+    { "id": 2, "Title": "Title 2","Benennung": "Maengel 2","Beschreibung":"Beschreibung 2","Status":"Status 2","FotoID":"2.png","ZeichnungID": 1 },
+    { "id": 3, "Title": "Title 3","Benennung": "Maengel 3","Beschreibung":"Beschreibung 3","Status":"Status 3","FotoID":"3.png","ZeichnungID": 1 },
+    { "id": 4, "Title": "Title 4","Benennung": "Maengel 4","Beschreibung":"Beschreibung 1","Status":"Status 4","FotoID":"1","ZeichnungID": 2 },
+    { "id": 5, "Title": "Title 5","Benennung": "Maengel 5","Beschreibung":"Beschreibung 2","Status":"Status 5","FotoID":"2","ZeichnungID": 2 },
+    { "id": 6, "Title": "Title 6","Benennung": "Maengel 6","Beschreibung":"Beschreibung 3","Status":"Status 6","FotoID":"3","ZeichnungID": 2 },
+    { "id": 7, "Title": "Title 7","Benennung": "Maengel 7","Beschreibung":"Beschreibung 1","Status":"Status 7","FotoID":"1","ZeichnungID": 3 },
+    { "id": 8, "Title": "Title 8","Benennung": "Maengel 8","Beschreibung":"Beschreibung 2","Status":"Status 8","FotoID":"2","ZeichnungID": 3 },
+    { "id": 9, "Title": "Title 9","Benennung": "Maengel 9","Beschreibung":"Beschreibung 3","Status":"Status 9","FotoID":"3","ZeichnungID": 3 },
+    { "id": 10, "Title": "Title 10","Benennung": "Maengel 10","Beschreibung":"Beschreibung 1","Status":"Status 10","FotoID":"1","ZeichnungID": 4 }
+  ]
   "Parameter": 
   [
     { "id": 1, "Title": "Parameter 1", "SymbolID": 1 },
