@@ -36,12 +36,12 @@
   ],
   "Maengels":
   [
-    { "id": 1, "Title": "Batterie","Benennung": "Maengel 1","Beschreibung":"Batterie AA","Status":"Fehler","FotoID":"1.jpg","ZeichnungID": 1 },
-    { "id": 2, "Title": "Schrauben","Benennung": "Maengel 2","Beschreibung":"Schrauben M4","Status":"Falsche Groeße","FotoID":"Test_2.jpg","ZeichnungID": 1 },
-    { "id": 3, "Title": "Radiergummi","Benennung": "Maengel 3","Beschreibung":"Radiergummi gelb","Status":"falsche Farbe","FotoID":"Test_1.jpg","ZeichnungID": 1 },
-    { "id": 4, "Title": "Batterie 2","Benennung": "Maengel 4","Beschreibung":"Batterie AA","Status":"Fehler","FotoID":"1.jpg","ZeichnungID": 1 },
-    { "id": 5, "Title": "Schrauben 2","Benennung": "Maengel 5","Beschreibung":"Schrauben M4","Status":"Falsche Groeße","FotoID":"Test_2.jpg","ZeichnungID": 1 },
-    { "id": 6, "Title": "Radiergummi 2","Benennung": "Maengel 6","Beschreibung":"Radiergummi gelb","Status":"falsche Farbe","FotoID":"Test_1.jpg","ZeichnungID": 1 },
+    { "id": 1, "Title": "Batterie","Benennung": "Maengel 1","Beschreibung":"Batterie AA","Status":"Fehler","FotoID":"close-up-battery-cells-hand_23-2147817197.jpg","ZeichnungID": 1 },
+    { "id": 2, "Title": "Schrauben","Benennung": "Maengel 2","Beschreibung":"Schrauben M4","Status":"Falsche Groeße","FotoID":"bolts-nuts_144627-17668.jpg","ZeichnungID": 1 },
+    { "id": 3, "Title": "Radiergummi","Benennung": "Maengel 3","Beschreibung":"Fenster","Status":"Falsche Farbe","FotoID":"empty-glass-door_1339-3180.jpg","ZeichnungID": 1 },
+    { "id": 4, "Title": "Batterie 2","Benennung": "Maengel 4","Beschreibung":"Tür","Status":"Falsche Groeße","FotoID":"opportunity-start-new-life_1160-214.jpg","ZeichnungID": 1 },
+    { "id": 5, "Title": "Schrauben 2","Benennung": "Maengel 5","Beschreibung":"Feuerlöscher","Status":"Abgelaufen","FotoID":"fire-extinguisher_53876-75136.jpg","ZeichnungID": 1 },
+    { "id": 6, "Title": "Radiergummi 2","Benennung": "Maengel 6","Beschreibung":"Mülltone","Status":"Gesperrt","FotoID":"cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg","ZeichnungID": 1 },
     { "id": 7, "Title": "Title 7","Benennung": "Maengel 7","Beschreibung":"Beschreibung 1","Status":"Status 7","FotoID":"1.jpg","ZeichnungID": 3 },
     { "id": 8, "Title": "Title 8","Benennung": "Maengel 8","Beschreibung":"Beschreibung 2","Status":"Status 8","FotoID":"Test_2.jpg","ZeichnungID": 3 },
     { "id": 9, "Title": "Title 9","Benennung": "Maengel 9","Beschreibung":"Beschreibung 3","Status":"Status 9","FotoID":"Test_1.jpg","ZeichnungID": 3 },
